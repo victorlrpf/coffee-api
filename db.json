@@ -1,0 +1,46 @@
+{
+    "coffee": [
+        {
+            "name": "Café preto",
+            "price": 8.90,
+            "desc": "Café preto famoso pretinho, uma xícara que serve uma pessoa",
+            "imgUrl":""
+        },
+        {
+            "name": "Chá de camomila",
+            "price": 5.90,
+            "desc": "Chá de camomila, plantada no nosso jardim mesmo",
+            "imgUrl":""
+        },
+        {
+            "name": "Cappuccino",
+            "price": 12.50,
+            "desc": "Cappuccino cremoso com um toque de canela",
+            "imgUrl":""
+        },
+        {
+            "name": "Latte",
+            "price": 11.00,
+            "desc": "Latte suave com leite vaporizado",
+            "imgUrl":""
+        },
+        {
+            "name": "Expresso",
+            "price": 9.00,
+            "desc": "Café expresso intenso e encorpado",
+            "imgUrl":""
+        },
+        {
+            "name": "Chá verde",
+            "price": 6.50,
+            "desc": "Chá verde refrescante e antioxidante",
+            "imgUrl":""
+        },
+        {
+            "name": "Mocha",
+            "price": 13.00,
+            "desc": "Mocha de chocolate com café expresso",
+            "imgUrl":""
+        }
+    ]
+}
