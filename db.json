@@ -42,5 +42,8 @@
             "desc": "Mocha de chocolate com café expresso",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
         }
-    ]
+    ],
+    "snacks": {
+        
+    }
 }
