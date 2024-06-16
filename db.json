@@ -16,34 +16,34 @@
             "name": "Cappuccino",
             "price": 12.50,
             "desc": "Cappuccino cremoso com um toque de canela",
-            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/Cappuccino.webp?raw=true"
         },
         {
             "name": "Latte",
             "price": 11.00,
             "desc": "Latte suave com leite vaporizado",
-            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/Cappuccino.webp?raw=true"
         },
         {
             "name": "Expresso",
             "price": 9.00,
             "desc": "Café expresso intenso e encorpado",
-            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/expresso.png?raw=true"
         },
         {
             "name": "Chá verde",
             "price": 6.50,
             "desc": "Chá verde refrescante e antioxidante",
-            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/cha-verde.png?raw=true"
         },
         {
             "name": "Mocha",
             "price": 13.00,
             "desc": "Mocha de chocolate com café expresso",
-            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/mocha.png?raw=true"
         }
     ],
     "snacks": {
-        
+
     }
 }
