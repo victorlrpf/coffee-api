@@ -43,7 +43,68 @@
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/mocha.png?raw=true"
         }
     ],
-    "snacks": {
-
-    }
+    "salgados": [
+        {
+            "name": "Coxinha",
+            "price": 7.00,
+            "desc": "Coxinha de frango com massa crocante",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/coxinha.png?raw=true"
+        },
+        {
+            "name": "Pão de Queijo",
+            "price": 4.50,
+            "desc": "Pão de queijo mineiro, macio e saboroso",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/pao_queijo.png?raw=true"
+        },
+        {
+            "name": "Empada",
+            "price": 6.50,
+            "desc": "Empada de frango com azeitonas",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/empada.png?raw=true"
+        },
+        {
+            "name": "Quiche de Alho-Poró",
+            "price": 8.00,
+            "desc": "Quiche leve com recheio de alho-poró",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/quiche.png?raw=true"
+        },
+        {
+            "name": "Esfiha de Carne",
+            "price": 5.00,
+            "desc": "Esfiha aberta de carne moída temperada",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/ESFIHA.png?raw=true"
+        }
+    ],
+    "doces": [
+        {
+            "name": "Brigadeiro",
+            "price": 3.00,
+            "desc": "Brigadeiro tradicional de chocolate",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/brigadeiro.png?raw=true"
+        },
+        {
+            "name": "Bolo de Cenoura",
+            "price": 6.00,
+            "desc": "Fatia de bolo de cenoura com cobertura de chocolate",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/bolo-cenouro.webp"
+        },
+        {
+            "name": "Torta de Limão",
+            "price": 7.50,
+            "desc": "Torta de limão com massa crocante e recheio cremoso",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/torta-limao.png?raw=true"
+        },
+        {
+            "name": "Pastel de Nata",
+            "price": 5.00,
+            "desc": "Pastel de nata português com creme suave",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/pastel_nata.png?raw=true"
+        },
+        {
+            "name": "Pudim de Leite",
+            "price": 8.00,
+            "desc": "Pudim de leite condensado com calda de caramelo",
+            "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/pudim.png?raw=true"
+        }
+    ]
 }
