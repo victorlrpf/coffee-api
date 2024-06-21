@@ -1,49 +1,49 @@
 {
     "coffee": [
         {
-            "id":"01",
+            "id": 1.0 ,
             "name": "Café preto",
             "price": 8.90,
             "desc": "Café preto famoso pretinho, uma xícara que serve uma pessoa",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
         },
         {
-            "id":"02",
+            "id": 2.0,
             "name": "Chá de camomila",
             "price": 5.90,
             "desc": "Chá de camomila, plantada no nosso jardim mesmo",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/xicara-cafe.png?raw=true"
         },
         {
-            "id":"03",
+            "id":3.0,
             "name": "Cappuccino",
             "price": 12.50,
             "desc": "Cappuccino cremoso com um toque de canela",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/Cappuccino.webp?raw=true"
         },
         {
-            "id":"04",
+            "id":4.0,
             "name": "Latte",
             "price": 11.00,
             "desc": "Latte suave com leite vaporizado",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/Cappuccino.webp?raw=true"
         },
         {
-            "id":"05",
+            "id":5.0,
             "name": "Expresso",
             "price": 9.00,
             "desc": "Café expresso intenso e encorpado",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/expresso.png?raw=true"
         },
         {
-            "id":"06",
+            "id":6.0,
             "name": "Chá verde",
             "price": 6.50,
             "desc": "Chá verde refrescante e antioxidante",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/cha-verde.png?raw=true"
         },
         {
-            "id":"07",
+            "id":7.0,
             "name": "Mocha",
             "price": 13.00,
             "desc": "Mocha de chocolate com café expresso",
@@ -52,35 +52,35 @@
     ],
     "salgados": [
         {
-            "id":"08",
+            "id":8.0,
             "name": "Coxinha",
             "price": 7.00,
             "desc": "Coxinha de frango com massa crocante",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/coxinha.png?raw=true"
         },
         {
-            "id":"09",
+            "id":9.0,
             "name": "Pão de Queijo",
             "price": 4.50,
             "desc": "Pão de queijo mineiro, macio e saboroso",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/pao_queijo.png?raw=true"
         },
         {
-            "id":"10",
+            "id":10.0,
             "name": "Empada",
             "price": 6.50,
             "desc": "Empada de frango com azeitonas",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/empada.png?raw=true"
         },
         {
-            "id":"11",
+            "id":11.0,
             "name": "Quiche de Alho-Poró",
             "price": 8.00,
             "desc": "Quiche leve com recheio de alho-poró",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/quiche.png?raw=true"
         },
         {
-            "id":"12",
+            "id":12.0,
             "name": "Esfiha de Carne",
             "price": 5.00,
             "desc": "Esfiha aberta de carne moída temperada",
@@ -89,35 +89,35 @@
     ],
     "doces": [
         {
-            "id":"13",
+            "id":13.0,
             "name": "Brigadeiro",
             "price": 3.00,
             "desc": "Brigadeiro tradicional de chocolate",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/brigadeiro.png?raw=true"
         },
         {
-            "id":"14",
+            "id":14.0,
             "name": "Bolo de Cenoura",
             "price": 6.00,
             "desc": "Fatia de bolo de cenoura com cobertura de chocolate",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/bolo-cenouro.webp"
         },
         {
-            "id":"15",
+            "id":15.0,
             "name": "Torta de Limão",
             "price": 7.50,
             "desc": "Torta de limão com massa crocante e recheio cremoso",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/torta-limao.png?raw=true"
         },
         {
-            "id":"16",
+            "id":16.0,
             "name": "Pastel de Nata",
             "price": 5.00,
             "desc": "Pastel de nata português com creme suave",
             "imgUrl":"https://raw.githubusercontent.com/victorlrpf/coffee-api/main/img/pastel_nata.png?raw=true"
         },
         {
-            "id":"17",
+            "id":17.0,
             "name": "Pudim de Leite",
             "price": 8.00,
             "desc": "Pudim de leite condensado com calda de caramelo",
